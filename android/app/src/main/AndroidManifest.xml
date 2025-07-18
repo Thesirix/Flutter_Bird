@@ -1,8 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="flutter_application_2"
+        android:label="Flutter_bird"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@drawable/ico_bird_1">
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
